@@ -20,7 +20,8 @@ People searching for a bathroom.
 - Next.js (React framework)
 - Deployed on Vercel
 
-##User Stories
+## User Stories
+
 - As a frequent business traveler, I want to see the price and included amenities (card accepted, attendant present) listed next to each result, so that I can decide whether a paid bathroom is worth the cost compared to a lower-rated free option nearby.
   
 - As a parent traveling with young children, I want to sort bathroom results by user star-ratings and cleanliness scores, so that I can ensure the facility is safe, sanitary, and has a changing table before I arrive.
